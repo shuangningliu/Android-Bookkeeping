@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.Help">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="个人理财通使用帮助"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="新增收入：点击“新增收入”可以添加支出信息。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="我的收入：点击“我的收入”可查看、修改以及删除历史收入信息。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="帮助：点击“帮助”可阅读各功能内容帮助。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="新增支出：点击“新增支出”可以添加新增加的支出。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="我的支出：点击“我的支出”可查看、修改以及删除历史支出信息。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="系统设置：点击“系统设置”可修改登录密码。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="新增便签：点击“新增支出”可以添加新增加的便签。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="我的便签：点击“我的便签”可查看、修改以及删除历史便签信息。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="退出系统：点击“退出系统”可以退出APP。"
+            android:textSize="20dp"
+            android:gravity="center"></TextView>
+
+        <Button
+            android:id="@+id/helpcancel"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="返回"></Button>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

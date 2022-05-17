@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1635" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1635" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_add_income.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_add_note.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_add_spend.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_help.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_main_page.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_modify.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_my_income.xml" value="0.27314814814814814" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_my_note.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_my_spend.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/layout/activity_setting.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/AccountManager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

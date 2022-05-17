@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.accountmanager">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AccountManager">
+        <activity
+            android:name=".activity.Modify"
+            android:exported="false"
+            android:label="信息更改" />
+        <activity
+            android:name=".activity.MainPage"
+            android:exported="false"
+            android:label="个人理财通" />
+        <activity
+            android:name=".activity.Login"
+            android:exported="false"
+            android:label="用户登录" />
+        <activity
+            android:name=".activity.Setting"
+            android:exported="false"
+            android:label="密码修改" />
+        <activity
+            android:name=".activity.Help"
+            android:exported="false"
+            android:label="帮助" />
+        <activity
+            android:name=".activity.MyNote"
+            android:exported="false"
+            android:label="我的便签" />
+        <activity
+            android:name=".activity.AddNote"
+            android:exported="false"
+            android:label="新增便签" />
+        <activity
+            android:name=".activity.MySpend"
+            android:exported="false"
+            android:label="我的支出" />
+        <activity
+            android:name=".activity.MyIncome"
+            android:exported="false"
+            android:label="我的收入" />
+        <activity
+            android:name=".activity.AddSpend"
+            android:exported="false"
+            android:label="新增支出" />
+        <activity
+            android:name=".activity.AddIncome"
+            android:exported="false"
+            android:label="新增收入" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="个人记账本">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
